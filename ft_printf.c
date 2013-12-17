@@ -6,12 +6,11 @@
 /*   By: abrault <abrault@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2013/12/16 15:48:09 by abrault           #+#    #+#             */
-/*   Updated: 2013/12/17 16:20:48 by abrault          ###   ########.fr       */
+/*   Updated: 2013/12/17 17:29:25 by abrault          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include "libft.h"
 
 void		ft_putnbr(int n)
 {
